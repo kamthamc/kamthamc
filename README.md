@@ -1,8 +1,8 @@
 ### 👋, I'm Chaitanya
 
 
-I am a Software Engineer, I enjoy working with <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-<--
+I am a Software Engineer, I enjoy working with React
+<!--
 **kamthamc/kamthamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
